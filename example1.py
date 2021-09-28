@@ -9,7 +9,7 @@ might throw an error stating that the variable does not exist
 name = ""
 
 while name != "Marvin the Martian":
-    name = input("Who is your favorite cartoon character?")
+    name = input("Who is your favorite cartoon character?").strip()
     if name != "Marvin the Martian":
         print("  You can't be serious.")
 

@@ -3,6 +3,8 @@
 Have the user enter a number.
 Display the multiples of that number, up to 12 times that number:
 All numbers should be on the same line.
+You may need to use the:
+print( variable , end='') option to print on one line
 (2 marks)
 
 inputs:

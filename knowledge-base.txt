@@ -9,7 +9,7 @@ int(), str(), float()
 if
 if...else
 if...elif
-conditionals ( == , !=, >, <, >=, <= )
+conditionals ( == , !=, >, <, >=, <= , not )
 xx in xxx (strings)
 xx in range(xx,xx) (integers)
 logical operators (and, or)

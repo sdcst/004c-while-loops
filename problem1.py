@@ -16,4 +16,17 @@ str password
 outputs:
 Access granted
 Access denied
+
+example:
+example:
+Enter username: fred
+Enter password: password
+Access denied
+Enter username: admin
+Enter password: password
+Access denied
+Enter username: admin
+Enter password: 1234
+Access denied
+Too many failed attempts. Access denied.
 """
